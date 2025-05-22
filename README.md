@@ -123,21 +123,3 @@ This class contains:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-## 🙋‍♂️ Author
-
-**Mousa AbuKhaled**
-Feel free to reach out via [LinkedIn](https://linkedin.com) or [GitHub](https://github.com)
-
-```
-
----
-
-Let me know if you want:
-- A version in Arabic
-- Screenshots or badges added
-- GitHub Actions CI setup included
-
-Would you like me to generate a `LICENSE` file or `pom.xml` too?
-```
-
